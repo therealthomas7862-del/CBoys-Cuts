@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CBoys Cuts</title>
+<!--Google Fonts links and the <style> block go here---->
+</head>
+<body>
+<header class="bar bleed">
+    <div class="wrap">
+<b>[cross icon] CBoys Cuts</b>
+<span>Christian Lawn Care: CAll(770) 606-4495</span>
+    </div>
+</header>
+<main>
+    <!-- Hero: green mowing stripes, headline, phone box-->
+     <div class="hero stripes bleed">
+        <div>
+            <h1>Your lawn, <span> cut right.</span></h1>
+            <p class="sub">Mowing, trimming, leaf cleanup, and multch and pinestraw work, done heartily as to the Lord. Call for a free quote!</p>
+            </div>
+            <div class="callbox">
+            <p class="num">(770) 606-4495</p>
+            <a class="btn" href="tel:7706064495">Call Now</a>
+            <button class="btn ghost" type="button" data-copy>Copy number</button>
+            </div>
+        </div>
+     </div>
+     <!--Verse + "Work done unto the Lord"-->
+     <section class="verse-sec" id="faith"> ... </section>
+     <!---Services: 6 rows, each</li><h3>Name</h3><p>Description</p></li>-->
+     <section id="services">
+        <ul class="list">
+            <li><h3>Lawn mowing</h3><p>...</p></li>
+            <!-- Trimming, Blow-off, Leaf, Cleanup,Multch and pinestraw work, and Yard cleanup -->
+             </ul>
+             <div class="facts"> <!-- 3 lawn-care tips--></div>
+             </section>
+             <!-- Photo gallery: two rows, 5 photos-->
+              <section id="photos">
+                <div class="gallery">
+                    <figure style="--r:0.75"><img src="photos/crew-porch.jpg" alt="..."></figure>
+                    <figure style="--r:0.75"><img src="photos/loppers.jpg" alt="..."></figure>
+                    <figure style="--r:1.333"><img src="photos/bamboo-crew.jpg" alt="..."></figure>
+                    </div>
+                    <div class="g-row">
+                        <figure style="--r:1.333"><img src="photos/under-trees.jpg" alt="..."></figure>
+                        <figure style="--r:1.333"><img src="photos/wooden-edge.jpg" alt="..."></figuure>
+
+
+
+
+                    </div>
+                </div>
+            </section>
+        <!-- Closing call to action on green stripes-->
+         <div class="close stripes bleed">
+            <h2>Let's cut your <span> lawn</span></h2>
+            <p class="num">(770) 606-4495</p>
+            <a class="btn" href="tel:7706064495">Call Now</a>
+         </div>
+         <footer class="wrap">
+            <span>CBoy Cuts: Christian-based lawn care</span>
+            <span>Free quotes: Call or Text (770) 606-4495</span>
+         </footer>
+         </main>
+         </body>
+         </html>
+
+
+
+
+
+
+              </section>
+        </ul>
+
+
+
+     </section>
+     </section>
+</main>
+
+</head>

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://therealthomas7862-del.github.io/CBoys-Cuts/sitemap.xml
